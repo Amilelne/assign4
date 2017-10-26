@@ -1,0 +1,20 @@
+# assign4
+## 实验四设计方案
+
++ src/main/java
+    + course
+        + Application.java
+    + course.entity
+        + Course.java
+    + course.service
+        + CourseService.java
+    + course.view
+        + CourseController.java
+    + course.view.vo（这次没有使用这个package)
+        + AddForm.java
++ src/main/resources
+    + templates
+        + add.ftl
+        + add.ftl
+        + findbyid.ftl
+        + result.ftl
